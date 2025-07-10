@@ -63,6 +63,8 @@ SENDER_EMAIL=your_sender_email
 SMTP_USER=your_smtp_username
 SMTP_PASS=your_smtp_password
 
+```
+
 🤝 Contributing
 Contributions, issues and feature requests are welcome!
 Feel free to check the issues page.

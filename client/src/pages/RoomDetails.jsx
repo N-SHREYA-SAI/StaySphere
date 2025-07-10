@@ -3,6 +3,8 @@ import { useParams } from 'react-router-dom';
 import { assets, facilityIcons, roomCommonData } from "../assets/assets";
 import StarRating from "../components/StarRating";
 import { useAppContext } from "../context/AppContext";
+import { toast } from 'react-hot-toast';
+
 
 const RoomDetails=()=>{
 

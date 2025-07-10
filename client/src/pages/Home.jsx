@@ -5,6 +5,8 @@ import ExclusiveOffers from "../components/ExclusiveOffers";
 import Testimonial from '../components/Testimonial'
 import NewsLetter from "../components/NewsLetter";
 import RecommendedHotels from "../components/RecommendedHotels";
+import { toast } from 'react-hot-toast';
+
 
 
 const Home =()=>{

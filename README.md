@@ -64,17 +64,16 @@ SMTP_USER=your_smtp_username
 SMTP_PASS=your_smtp_password
 
 ```
+---
 
-###🤝 Contributing
+### 🤝 Contributing
 Contributions, issues and feature requests are welcome!
 Feel free to check the issues page.
 
-###📄 License
+### 📄 License
 This project is licensed under the MIT License.
 
-###👩‍💻 Developed By
+### 👩‍💻 Developed By
 N-Shreya-Sai
-
----
 
 Let me know if you'd like to add badges, deployment links, or more advanced documentation (like Swagger, Postman API docs, etc.).
